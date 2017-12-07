@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ret2libc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ret2libc.github.io
+  * I am ret2libc (https://keybase.io/ret2libc) on keybase.
+  * I have a public key ASAOcQPnYKN_VwOu4ZEfLgxZXYyRQHyJi7ve_IF0xHdFSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200e7103e760a37f5703aee1911f2e0c595d8c91407c898bbbdefc8174c477454a0a",
+      "host": "keybase.io",
+      "kid": "01200e7103e760a37f5703aee1911f2e0c595d8c91407c898bbbdefc8174c477454a0a",
+      "uid": "c57eaf6530a6ac809ae16cc9062eb619",
+      "username": "ret2libc"
+    },
+    "merkle_root": {
+      "ctime": 1512690351,
+      "hash": "829a743a0ff3901863014f17f9b1b6b33e10fb988a34fd3aab30116ab172204ec06b818738f42f8a86b6f36c0462b62954dcdc694c4cdd9fb722b99b95c21dc3",
+      "hash_meta": "8f69b7fc00978a77683db89e70ed7bd583e5a6617bb480eac3e004dec973b187",
+      "seqno": 1789883
+    },
+    "service": {
+      "hostname": "ret2libc.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1512690424,
+  "expire_in": 504576000,
+  "prev": "663c750eeba025aa0a468f6c99574d1c90ac353eea84e40976b8370103fe5594",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDnED52Cjf1cDruGRHy4MWV2MkUB8iYu73vyBdMR3RUoKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGU3MTAzZTc2MGEzN2Y1NzAzYWVlMTkxMWYyZTBjNTk1ZDhjOTE0MDdjODk4YmJiZGVmYzgxNzRjNDc3NDU0YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGU3MTAzZTc2MGEzN2Y1NzAzYWVlMTkxMWYyZTBjNTk1ZDhjOTE0MDdjODk4YmJiZGVmYzgxNzRjNDc3NDU0YTBhIiwidWlkIjoiYzU3ZWFmNjUzMGE2YWM4MDlhZTE2Y2M5MDYyZWI2MTkiLCJ1c2VybmFtZSI6InJldDJsaWJjIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEyNjkwMzUxLCJoYXNoIjoiODI5YTc0M2EwZmYzOTAxODYzMDE0ZjE3ZjliMWI2YjMzZTEwZmI5ODhhMzRmZDNhYWIzMDExNmFiMTcyMjA0ZWMwNmI4MTg3MzhmNDJmOGE4NmI2ZjM2YzA0NjJiNjI5NTRkY2RjNjk0YzRjZGQ5ZmI3MjJiOTliOTVjMjFkYzMiLCJoYXNoX21ldGEiOiI4ZjY5YjdmYzAwOTc4YTc3NjgzZGI4OWU3MGVkN2JkNTgzZTVhNjYxN2JiNDgwZWFjM2UwMDRkZWM5NzNiMTg3Iiwic2Vxbm8iOjE3ODk4ODN9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicmV0MmxpYmMuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzYifSwiY3RpbWUiOjE1MTI2OTA0MjQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNjYzYzc1MGVlYmEwMjVhYTBhNDY4ZjZjOTk1NzRkMWM5MGFjMzUzZWVhODRlNDA5NzZiODM3MDEwM2ZlNTU5NCIsInNlcW5vIjoxOSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEC4Emdg8RWPj3qYNqO41/fggggtUHmGJXuhueS+GvPITRx1/g6hXBhRnqL//NAUsTvVqB/iHW720DpSLK6HIQMDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg40vWLVkrqyChzSTK5R1xprlU1tOvkdqqK7BO2EpXHm+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ret2libc
+
+==================================================================
