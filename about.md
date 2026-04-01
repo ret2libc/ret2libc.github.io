@@ -38,7 +38,7 @@ and it can be found [here]({{ site.url }}/static/files/bsc_thesis.pdf).
 
 ### Contact me
 
-Email:    [rschirone91@gmail.com](mailto:rschirone91@gmail.com)
+Email:    rschirone91 _at_ gmail.com
 
 Twitter:  [@RickySkiro](https://twitter.com/RickySkiro)
 
