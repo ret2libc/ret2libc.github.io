@@ -33,8 +33,8 @@ is titled "Studio e implementazione di un integrity-checker hardware-assisted"
 and it can be found [here]({{ site.url }}/static/files/bsc_thesis.pdf).
 
 ### Projects
-* Buttercup: https://github.com/trailofbits/buttercup
-* Rizin: https://rizin.re
+* [Buttercup](https://github.com/trailofbits/buttercup)
+* [Rizin](https://rizin.re)
 
 ### Contact me
 

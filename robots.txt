@@ -1,0 +1,31 @@
+# Block OpenAI (ChatGPT training and search)
+User-agent: GPTBot
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+
+# Block Google's AI training (Gemini) while keeping normal Google Search
+User-agent: Google-Extended
+Disallow: /
+
+# Block Anthropic (Claude)
+User-agent: ClaudeBot
+Disallow: /
+
+# Block Perplexity AI
+User-agent: PerplexityBot
+Disallow: /
+
+# Block Common Crawl (Massive dataset used by many open-source LLMs)
+User-agent: CCBot
+Disallow: /
+
+# Block Apple's AI crawler
+User-agent: Applebot-Extended
+Disallow: /
+
+# Block Cohere
+User-agent: cohere-ai
+Disallow: /
